@@ -13,15 +13,9 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#getting-started)
+1. [Getting Software](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#getting-software)
 
-   - [Additional Ubuntu Tools & Resources for Enterprise & Small Businesses](https://github.com/mikeroyal/Perfect-Ubuntu-Guide#additional-ubuntu-tools--resources-for-enterprise--small-businesses)
-   - [Removing Snap and adding Flatpak support](https://github.com/mikeroyal/Perfect-Ubuntu-Guide#removing-snap-and-adding-flatpak-support)
-   - [Setting up PipeWire for Ubuntu/Debian](https://github.com/mikeroyal/Perfect-Ubuntu-Guide#setting-up-pipewire-for-ubuntudebian)
-
-2. [Getting Software](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#getting-software)
-
-3. [Gaming](#gaming)
+2. [Gaming](#gaming)
    - [Linux Gaming Resources](#Linux-Gaming-Resources)
    - [Upgrading the Linux Kernel](#Upgrading-the-Linux-Kernel)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
@@ -71,39 +65,39 @@
    - [Performance Benchmarks](#performance-benchmarks)
    - [WINE](#wine)
 
-4. [Game Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#game-development)
+3. [Game Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#game-development)
 
-5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#setting-up-a-macos-workspace)
+4. [Setting up a macOS Workspace](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-6. [Setting up a Windows 10 Workspace](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
+5. [Setting up a Windows 10 Workspace](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-7. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
+6. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
 
-8. [Professional Audio/Video Editing](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#professional-audio--video-editing)
+7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#professional-audio--video-editing)
 
-9. [Kubernetes](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#kubernetes)
+8. [Kubernetes](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#kubernetes)
 
-10. [Machine Learning](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#machine-learning)
+9. [Machine Learning](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#machine-learning)
 
-11. [Robotics](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#robotics)
+10. [Robotics](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#robotics)
 
-12. [Open Source Security](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#open-source-security)
+11. [Open Source Security](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#open-source-security)
 
-13. [Differential Privacy](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#differential-privacy)
+12. [Differential Privacy](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#differential-privacy)
 
-14. [Cloud Native Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#cloud-native-development)
+13. [Cloud Native Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#cloud-native-development)
 
-15. [DevOps Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#devops-development)
+14. [DevOps Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#devops-development)
 
-16. [Flutter Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#flutter-development)
+15. [Flutter Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#flutter-development)
 
-17. [Networking](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#networking)
+16. [Networking](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#networking)
 
-18. [Databases](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#databases)
+17. [Databases](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#databases)
 
-19. [GNOME Extensions](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#gnome-extensions)
+18. [GNOME Extensions](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#gnome-extensions)
 
-20. [Advanced Topics](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#advanced-topics)
+19. [Advanced Topics](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#advanced-topics)
 
 # Getting Started
 
