@@ -117,14 +117,6 @@
   Ubuntu Desktop
 </h3>
 
-[Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
-
-<h2 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/157350348-e43ea5a2-2346-4b0b-acc0-fc3352c3d820.png">
-  <br />
-  Etcher UI
-</h2>
-
 ## Additional Ubuntu Tools & Resources for Enterprise & Small Businesses
 
 [Ubuntu Community Hub](https://discourse.ubuntu.com/)
@@ -167,98 +159,6 @@
 
 [Active Directory Integration on Ubuntu](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/files/6064814/Active_Directory_Integration_Ubuntu_Desktop_Final.pdf)
 
-## Removing Snap and adding Flatpak support
-
-[Unsnap](https://github.com/popey/unsnap) is a tool to quickly migrate from using snap packages to flatpaks.
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/167506753-17c62a29-ce7e-4556-a90f-9996aa73a92e.png">
-  <br />
-</p>
-
-Unsnap running in the terminal. Credit: [Alan Pope](https://github.com/popey/)
-
-## Setting up PipeWire for Ubuntu/Debian
-
-* [PipeWire - Ubuntu Wiki](https://wiki.ubuntu.com/DesktopTeam/TestPlans/Pipewire)
-
-**Note:** For those using Pop!_OS 22.04 or later PipeWire is already setup by default. PipeWire will be default starting with [Ubuntu 22.10 (October 2022)](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489/30). So these install instructions are for those running older Ubuntu versions like 22.04 and 20.04 LTS releases.
-
-Before you begin make sure to cd ```/etc/apt/sources.list.d``` in the terminal.
-
-### Install PipeWire
-
-```sudo apt install pipewire```
-
-**Create this empty file:**
-
-```# touch /etc/pipewire/media-session.d/with-pulseaudio```
-
-Create a pipewire-pulse service by copying the example files:
-
-```# cp /usr/share/doc/pipewire/examples/systemd/user/pipewire-pulse.* /etc/systemd/user/```
-
-#### Run these three commands as your regular user (not as root):
-
-**Check for new service files with:**
-
-```systemctl --user daemon-reload```
-
-**Disable and stop the PulseAudio service with:**
-
-```systemctl --user --now disable pulseaudio.service pulseaudio.socket```
-
-**Enable and start the new pipewire-pulse service with:**
-
-```systemctl --user --now enable pipewire pipewire-pulse```
-
-**This will configure PipeWire to activate its PulseAudio replacement daemon. Verify that it's enabled by running:**
-
-```LANG=C pactl info | grep '^Server Name'```
-
-It should say **Server Name: PulseAudio (on PipeWire 0.3.19 or later)**.
-
-**To ensure this continues working after a reboot. You will need to "mask" the PulseAudio service by running:**
-
-```systemctl --user mask pulseaudio```
-
-## Installing Pop Shell on Ubuntu
-
-[Pop Shell](https://github.com/pop-os/shell) is a keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows. The core feature of Pop Shell is the addition of advanced tiling window management similar to i3wm.
-
-In order to use Pop Shell your system must have the following applications installed.
-
- - GNOME Shell 3.36 or later
- - TypeScript 3.8
- - GNU Make
- 
-```sh
-sudo apt install node-typescript make
-git clone https://github.com/pop-os/shell
-cd shell
-./rebuild.sh
-```
-
-## Vanilla GNOME in Ubuntu
-
-```sh
-sudo apt install gnome-session
-```
-**Complete this process by Logging out of the system then will click on the settings button in bottom right corner and choose 'GNOME on Xorg'. After that just log back into your system and you will a Vanilla GNOME layout for your Ubuntu system.**
-
-
-## GNOME Tweaks
-
-```sh
-sudo apt install gnome-tweak-tool //let's you customize your desktop layout.
-```
-
-## Enable Firewall
-
-```sh
-sudo ufw enable  //enables firewall
-sudo ufw status //checks status of firewall
-```
 # Getting Software
 
 [Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
