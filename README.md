@@ -4,15 +4,7 @@
   Ubuntu Guide
 </h1>
 
-<a href="https://github.com/mikeroyal?tab=followers">
-         <img alt="followers" title="Follow me for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 	
-
-![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
-![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/perfect-ubuntu-guide?style=for-the-badge)
-
-#### A guide on setting up your Ubuntu Desktop with all the essential Applications, Tools, and Games to make your experience with Ubuntu great! This may not be perfect guide for everyone but I feel there is at least one or more perfect solutions for New and Advanced Ubuntu users.
-
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+#### A guide on setting up your Ubuntu Desktop with all the essential Applications, Tools, and Games to make your experience with Ubuntu great!
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/212644871-f101bda2-01f0-495a-8e94-b5ccf468a629.png">
@@ -115,7 +107,7 @@
 
 # Getting Started
 
-[Ubuntu](https://ubuntu.com/) is a modern open source operating system on Linux for the enterprise Server, Desktop, Cloud, and IoT developed by Canonical. Also, checkout the new [Ubuntu Desktop Installer](https://discourse.ubuntu.com/t/refreshing-the-ubuntu-desktop-installer/20659), which will be available to test in the 21.10 release (October 2021).
+[Ubuntu](https://ubuntu.com/) is a modern open source operating system on Linux for the enterprise Server, Desktop, Cloud, and IoT developed by Canonical.
 
 [Ubuntu Flavours](https://www.ubuntu.com/download/flavours) is for those that prefer an alternative desktop environment such as [KDE Plasma Desktop](https://kubuntu.org/), [MATE](https://ubuntu-mate.org/), [Xfce](https://xubuntu.org/), [LXQt](https://lubuntu.me/), [Budgie](https://ubuntubudgie.org/), and [UKUI](https://www.ubuntukylin.com/) you can download a Flavour for your preferred desktop environment and use that to install Ubuntu, pre-configured for the desktop environment of your choice.
  
