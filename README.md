@@ -13,7 +13,7 @@
 
 # Table of Contents
 
-1. [Getting Software](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#getting-software)
+1. [Getting Software](#getting-software)
 
 2. [Gaming](#gaming)
    - [Linux Gaming Resources](#Linux-Gaming-Resources)
