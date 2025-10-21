@@ -50,7 +50,7 @@
      * [DOS](#DOS)
      * [Atari](#Atari)
      * [Sega Dreamcast](#Sega-Dreamcast)
-     * [PlayStation Portable](#PlayStation-Portable)
+     * [PlayStation?Portable](#PlayStation-Portable)
      * [PlayStation 1](#PlayStation-1)
      * [PlayStation 2](#PlayStation-2)
      * [PlayStation 3](#PlayStation-3)
@@ -65,39 +65,39 @@
    - [Performance Benchmarks](#performance-benchmarks)
    - [WINE](#wine)
 
-3. [Game Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#game-development)
+3. [Game Development](#game-development)
 
-4. [Setting up a macOS Workspace](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#setting-up-a-macos-workspace)
+4. [Setting up a macOS Workspace](#setting-up-a-macos-workspace)
 
-5. [Setting up a Windows 10 Workspace](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
+5. [Setting up a Windows 10 Workspace](#setting-up-a-windows-10-workspace)
 
-6. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
+6. [Using Android and Android Apps on Linux](#using-android-and-android-apps-on-linux)
 
-7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#professional-audio--video-editing)
+7. [Professional Audio/Video Editing](#professional-audio--video-editing)
 
-8. [Kubernetes](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#kubernetes)
+8. [Kubernetes](#kubernetes)
 
-9. [Machine Learning](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#machine-learning)
+9. [Machine Learning](#machine-learning)
 
-10. [Robotics](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#robotics)
+10. [Robotics](#robotics)
 
-11. [Open Source Security](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#open-source-security)
+11. [Open Source Security](#open-source-security)
 
-12. [Differential Privacy](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#differential-privacy)
+12. [Differential Privacy](#differential-privacy)
 
-13. [Cloud Native Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#cloud-native-development)
+13. [Cloud Native Development](#cloud-native-development)
 
-14. [DevOps Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#devops-development)
+14. [DevOps Development](#devops-development)
 
-15. [Flutter Development](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#flutter-development)
+15. [Flutter Development](#flutter-development)
 
-16. [Networking](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#networking)
+16. [Networking](#networking)
 
-17. [Databases](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#databases)
+17. [Databases](#databases)
 
-18. [GNOME Extensions](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#gnome-extensions)
+18. [GNOME Extensions](#gnome-extensions)
 
-19. [Advanced Topics](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#advanced-topics)
+19. [Advanced Topics](#advanced-topics)
 
 # Getting Started
 
@@ -155,7 +155,7 @@
 
 # Getting Software
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 ## Ubuntu Software Center
  <img src="https://user-images.githubusercontent.com/45159366/107094063-37582180-67bb-11eb-8fd8-a7eb1ca25e2c.png">
@@ -223,7 +223,7 @@ sudo apt install gnome-software-plugin-flatpak
 
 [Master PDF Editor](https://code-industry.net/masterpdfeditor/) is straightforward, easy to use application for working with PDF documents equipped with powerful multi-purpose functionality. With Master PDF Editor you can easily view, create and modify PDF documents. 
 
-[CrossOver Linux®](https://www.codeweavers.com/crossover) is a Microsoft Windows compatibility layer(based on [WINE(Wine Is Not an Emulator)](https://www.winehq.org)). The CrossOver compatibility layer enables thousands of Windows-based applications to run on Linux, macOS, or Chrome OS.
+[CrossOver Linux?](https://www.codeweavers.com/crossover) is a Microsoft Windows compatibility layer(based on [WINE(Wine Is Not an Emulator)](https://www.winehq.org)). The CrossOver compatibility layer enables thousands of Windows-based applications to run on Linux, macOS, or Chrome OS.
 
 [WinApps for Linux](https://github.com/Fmstrat/winapps) is a program that runs Windows apps such as Microsoft Office & Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration for right clicking on files of specific mime types to open them.
 
@@ -425,7 +425,7 @@ Lastly, reboot your Ubuntu system so that it can take changes from the new kerne
 
 [Back to Top](#table-of-contents)
 
-[Xbox Wireless Controller + USB-C® Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
+[Xbox Wireless Controller + USB-C? Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/187094245-3c406751-4e4b-42fd-bd2c-a72181722fad.png">
@@ -433,7 +433,7 @@ Lastly, reboot your Ubuntu system so that it can take changes from the new kerne
     Xbox Controller
 </p>
 
-[PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
+[PlayStation 5 DualSense? Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
 
 * [Update the wireless controller firmware](https://controller.dl.playstation.net/controller/lang/gb/fwupdater.html)
 
@@ -442,7 +442,7 @@ Lastly, reboot your Ubuntu system so that it can take changes from the new kerne
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
   <br />
-    PS 5  DualSense™ Controller
+    PS 5  DualSense? Controller
 </p>
 
 [Nintendo Switch Pro Controller](https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0)
@@ -819,7 +819,7 @@ Nintendo 3DS
 
 [Flycast](https://github.com/flyinghead/flycast) is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
 
-### PlayStation Portable
+### PlayStation?Portable
 
 [PPSSPP](https://www.ppsspp.org/) is a PSP emulator that can run games in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. [PPSSPP Flatpak](https://flathub.org/apps/details/org.ppsspp.PPSSPP)
 
@@ -883,28 +883,28 @@ Nintendo 3DS
   <br />
 </p>
  
-* **[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
+* **[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA? and AMD RDNA? 2 architectures.
 
 * **[AMD FidelityFX Super Resolution (FSR) 2.0](https://github.com/GPUOpen-Effects/FidelityFX-FSR2)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution.
 
-* **[AMD Open Source Driver for Vulkan®](https://github.com/GPUOpen-Drivers/AMDVLK)** is an open-source Vulkan driver for Radeon™ graphics adapters on Linux®. It is built on top of AMD's Platform Abstraction Library (PAL), a shared component that is designed to encapsulate certain hardware and OS-specific programming details for many of AMD's 3D and compute drivers. 
+* **[AMD Open Source Driver for Vulkan?](https://github.com/GPUOpen-Drivers/AMDVLK)** is an open-source Vulkan driver for Radeon? graphics adapters on Linux?. It is built on top of AMD's Platform Abstraction Library (PAL), a shared component that is designed to encapsulate certain hardware and OS-specific programming details for many of AMD's 3D and compute drivers. 
 
-* **[Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/)** is a library provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage. 
+* **[Vulkan? Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/)** is a library provides a simple and easy to integrate API to help you allocate memory for Vulkan? buffer and image storage. 
 
-* **[Radeon™ Raytracing Analyzer (RRA)](https://gpuopen.com/radeon-raytracing-analyzer/)** is a tool that investigates the performance of your raytracing applications and highlight potential bottlenecks.
+* **[Radeon? Raytracing Analyzer (RRA)](https://gpuopen.com/radeon-raytracing-analyzer/)** is a tool that investigates the performance of your raytracing applications and highlight potential bottlenecks.
 
-* **[Radeon™ GPU Profiler](https://gpuopen.com/rgp/)** is a low-level optimization tool that provides detailed information on Radeon™ GPUs.
+* **[Radeon? GPU Profiler](https://gpuopen.com/rgp/)** is a low-level optimization tool that provides detailed information on Radeon? GPUs.
 
-* **[Radeon™ GPU Analyzer](https://gpuopen.com/rga/)** is an offline compiler and performance analysis tool for DirectX®, Vulkan®, SPIR-V™, OpenGL®, and OpenCL™. It can be used together with [RGP](https://gpuopen.com/rgp/), [RMV](https://gpuopen.com/rmv/), and [RDP](https://gpuopen.com/rdp/).
+* **[Radeon? GPU Analyzer](https://gpuopen.com/rga/)** is an offline compiler and performance analysis tool for DirectX?, Vulkan?, SPIR-V?, OpenGL?, and OpenCL?. It can be used together with [RGP](https://gpuopen.com/rgp/), [RMV](https://gpuopen.com/rmv/), and [RDP](https://gpuopen.com/rdp/).
 
- * **[Radeon™ Developer Panel (RDP)](https://gpuopen.com/rdp/)** is an essential part of the Radeon™ Developer Tool Suite. It provides the communication channel that delivers requests to, and receives data from, the AMD Radeon™ driver.
+ * **[Radeon? Developer Panel (RDP)](https://gpuopen.com/rdp/)** is an essential part of the Radeon? Developer Tool Suite. It provides the communication channel that delivers requests to, and receives data from, the AMD Radeon? driver.
 
-* **[Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/learn/radeon-memory-visualizer-on-linux/)** is a powerful tool that allows users to analyze video memory usage on AMD Radeon GPUs.
+* **[Radeon? Memory Visualizer (RMV)](https://gpuopen.com/learn/radeon-memory-visualizer-on-linux/)** is a powerful tool that allows users to analyze video memory usage on AMD Radeon GPUs.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/190555167-e1293b98-eaf1-4df0-815c-88569b8dfe23.png">
   <br />
-  Radeon™ Memory Visualizer (RMV)
+  Radeon? Memory Visualizer (RMV)
 </p>
 
 
@@ -1030,7 +1030,7 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
 
 # Game Development
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -1126,7 +1126,7 @@ SteamVR Home
 
 [openXR](https://www.khronos.org/OpenXR/) is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices. 
 
-[Monado](https://monado.dev/) is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.
+[Monado](https://monado.dev/) is the first OpenXR? runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.
 
 [Libsurvive](https://github.com/cntools/libsurvive) is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
 
@@ -1160,7 +1160,7 @@ SteamVR Home
 
 # Setting up a macOS workspace
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 **REQUIREMENTS**
 
@@ -1186,7 +1186,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
  
 # Setting up a Windows 10 workspace
 
- [Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+ [Back to the Top](#table-of-contents)
  
 **REQUIREMENTS**
 
@@ -1213,7 +1213,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 
 # Using Android and Android Apps on Linux
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 [Android Studio](https://developer.android.com/studio/) is the development suite for Google's Android Operating System(OS). It's built on [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) software and designed specifically for Android development. It is available for download on Windows, macOS and Linux.
 
@@ -1271,7 +1271,7 @@ Local virtual devices with high performances.
 
 # Professional Audio & Video Editing
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108773208-dba7cb00-7512-11eb-8fd0-2d009dbfc729.png">
@@ -1288,7 +1288,7 @@ Local virtual devices with high performances.
  
 [Dynamic Adaptive Streaming over HTTP (DASH)](https://developer.mozilla.org/en-US/docs/Web/HTML/DASH_Adaptive_Streaming_for_HTML_5_Video) is an adaptive streaming protocol that allows for a video stream to switch between bit rates on the basis of network performance, in order to keep a video playing.
 
-[OpenMAX™](https://www.khronos.org/openmax/) is a cross-platform API that provides comprehensive streaming media codec and application portability by enabling accelerated multimedia components to be developed, integrated and programmed across multiple operating systems and silicon platforms.
+[OpenMAX?](https://www.khronos.org/openmax/) is a cross-platform API that provides comprehensive streaming media codec and application portability by enabling accelerated multimedia components to be developed, integrated and programmed across multiple operating systems and silicon platforms.
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound designers can all work live on the same project at the same time.
 
@@ -1332,7 +1332,7 @@ Local virtual devices with high performances.
 
 # Kubernetes
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
@@ -1463,7 +1463,7 @@ Local virtual devices with high performances.
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <img src="https://user-images.githubusercontent.com/45159366/108111395-756e0480-7049-11eb-85ca-b87315e9d3ef.jpeg">
 
@@ -1523,7 +1523,7 @@ Local virtual devices with high performances.
 
 [Koalas](https://pypi.org/project/koalas/) is project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
 
-[Apache Spark™ MLflow](https://mlflow.org/) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. MLflow currently offers four components:
+[Apache Spark? MLflow](https://mlflow.org/) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. MLflow currently offers four components:
 
 **[MLflow Tracking](https://mlflow.org/docs/latest/tracking.html)**: Record and query experiments: code, data, config, and results.
 
@@ -1553,7 +1553,7 @@ Local virtual devices with high performances.
 
 # Robotics
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352533-b55fb380-1078-11eb-874c-f165cbcce899.png">
@@ -1587,7 +1587,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [AirSim](https://github.com/Microsoft/AirSim) is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.
 
-[F´ (F Prime)](https://github.com/nasa/fprime) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F´ has been successfully deployed on several space applications.
+[F′ (F Prime)](https://github.com/nasa/fprime) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F′ has been successfully deployed on several space applications.
 
 [The JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. The Open Source Rover is designed almost entirely out of consumer off the shelf (COTS) parts. This project is intended to be a teaching and learning experience for those who want to get involved in mechanical engineering, software, electronics, or robotics.
 
@@ -1643,7 +1643,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 # Open Source Security
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352529-af69d280-1078-11eb-9e87-8a73f48af246.png">
@@ -1812,7 +1812,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Differential Privacy
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/103486336-fd59c100-4db1-11eb-9780-a0b90bd5db1f.png">
@@ -1918,7 +1918,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 # Cloud Native Development
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/90199045-6a7ba400-dd88-11ea-96d6-81b90d370946.png">
@@ -2063,7 +2063,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 # DevOps Development
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352525-abd64b80-1078-11eb-95c8-e29d4c592bec.png">
@@ -2314,7 +2314,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 # Flutter Development
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719686-0abbaa00-fb39-11ea-978d-91e55844dd7a.png">
@@ -2376,7 +2376,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
@@ -2562,7 +2562,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Databases
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/111918157-fcdfd680-8a40-11eb-96e9-7fecb43ea0eb.png">
@@ -2675,7 +2675,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # GNOME Extensions
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 **Note: GNOME Extenions allow you customize your Desktop layout anyway you want.**
 
@@ -2725,7 +2725,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## Advanced Topics
 
-[Back to the Top](https://github.com/mikeroyal/Perfect-Ubuntu-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 **Below are some of my favorite Ubuntu tutorials from [DigitalOcean](https://www.digitalocean.com/).**
 
