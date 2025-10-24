@@ -15,9 +15,13 @@
 
 1. [Getting Started](#getting-started)
 
-2. [Getting Software](#getting-software)
+   - [Additional Ubuntu Tools & Resources for Enterprise & Small Businesses](#additional-ubuntu-tools--resources-for-enterprise--small-businesses)
+   - [Removing Snap and adding Flatpak support](#removing-snap-and-adding-flatpak-support)
+   - [Setting up PipeWire for Ubuntu/Debian](#setting-up-pipewire-for-ubuntudebian)
 
-3. [Gaming](#gaming)
+3. [Getting Software](#getting-software)
+
+4. [Gaming](#gaming)
    - [Linux Gaming Resources](#Linux-Gaming-Resources)
    - [Upgrading the Linux Kernel](#Upgrading-the-Linux-Kernel)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
@@ -67,39 +71,39 @@
    - [Performance Benchmarks](#performance-benchmarks)
    - [WINE](#wine)
 
-4. [Game Development](#game-development)
+5. [Game Development](#game-development)
 
-5. [Setting up a macOS Workspace](#setting-up-a-macos-workspace)
+6. [Setting up a macOS Workspace](#setting-up-a-macos-workspace)
 
-6. [Setting up a Windows 10 Workspace](#setting-up-a-windows-10-workspace)
+7. [Setting up a Windows 10 Workspace](#setting-up-a-windows-10-workspace)
 
-7. [Using Android and Android Apps on Linux](#using-android-and-android-apps-on-linux)
+8. [Using Android and Android Apps on Linux](#using-android-and-android-apps-on-linux)
 
-8. [Professional Audio/Video Editing](#professional-audio--video-editing)
+9. [Professional Audio/Video Editing](#professional-audio--video-editing)
 
-9. [Kubernetes](#kubernetes)
+10. [Kubernetes](#kubernetes)
 
-10. [Machine Learning](#machine-learning)
+11. [Machine Learning](#machine-learning)
 
-11. [Robotics](#robotics)
+12. [Robotics](#robotics)
 
-12. [Open Source Security](#open-source-security)
+13. [Open Source Security](#open-source-security)
 
-13. [Differential Privacy](#differential-privacy)
+14. [Differential Privacy](#differential-privacy)
 
-14. [Cloud Native Development](#cloud-native-development)
+15. [Cloud Native Development](#cloud-native-development)
 
-15. [DevOps Development](#devops-development)
+16. [DevOps Development](#devops-development)
 
-16. [Flutter Development](#flutter-development)
+17. [Flutter Development](#flutter-development)
 
-17. [Networking](#networking)
+18. [Networking](#networking)
 
-18. [Databases](#databases)
+19. [Databases](#databases)
 
-19. [GNOME Extensions](#gnome-extensions)
+20. [GNOME Extensions](#gnome-extensions)
 
-20. [Advanced Topics](#advanced-topics)
+21. [Advanced Topics](#advanced-topics)
 
 # Getting Started
 
