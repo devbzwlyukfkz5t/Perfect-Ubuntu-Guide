@@ -54,7 +54,7 @@
      * [DOS](#DOS)
      * [Atari](#Atari)
      * [Sega Dreamcast](#Sega-Dreamcast)
-     * [PlayStation?Portable](#PlayStation-Portable)
+     * [PlayStation Portable](#PlayStation-Portable)
      * [PlayStation 1](#PlayStation-1)
      * [PlayStation 2](#PlayStation-2)
      * [PlayStation 3](#PlayStation-3)
@@ -823,7 +823,7 @@ Nintendo 3DS
 
 [Flycast](https://github.com/flyinghead/flycast) is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
 
-### PlayStation?Portable
+### PlayStation Portable
 
 [PPSSPP](https://www.ppsspp.org/) is a PSP emulator that can run games in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. [PPSSPP Flatpak](https://flathub.org/apps/details/org.ppsspp.PPSSPP)
 
