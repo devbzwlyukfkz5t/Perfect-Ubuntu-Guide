@@ -13,9 +13,11 @@
 
 # Table of Contents
 
-1. [Getting Software](#getting-software)
+1. [Getting Started](#getting-started)
 
-2. [Gaming](#gaming)
+2. [Getting Software](#getting-software)
+
+3. [Gaming](#gaming)
    - [Linux Gaming Resources](#Linux-Gaming-Resources)
    - [Upgrading the Linux Kernel](#Upgrading-the-Linux-Kernel)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
@@ -65,39 +67,39 @@
    - [Performance Benchmarks](#performance-benchmarks)
    - [WINE](#wine)
 
-3. [Game Development](#game-development)
+4. [Game Development](#game-development)
 
-4. [Setting up a macOS Workspace](#setting-up-a-macos-workspace)
+5. [Setting up a macOS Workspace](#setting-up-a-macos-workspace)
 
-5. [Setting up a Windows 10 Workspace](#setting-up-a-windows-10-workspace)
+6. [Setting up a Windows 10 Workspace](#setting-up-a-windows-10-workspace)
 
-6. [Using Android and Android Apps on Linux](#using-android-and-android-apps-on-linux)
+7. [Using Android and Android Apps on Linux](#using-android-and-android-apps-on-linux)
 
-7. [Professional Audio/Video Editing](#professional-audio--video-editing)
+8. [Professional Audio/Video Editing](#professional-audio--video-editing)
 
-8. [Kubernetes](#kubernetes)
+9. [Kubernetes](#kubernetes)
 
-9. [Machine Learning](#machine-learning)
+10. [Machine Learning](#machine-learning)
 
-10. [Robotics](#robotics)
+11. [Robotics](#robotics)
 
-11. [Open Source Security](#open-source-security)
+12. [Open Source Security](#open-source-security)
 
-12. [Differential Privacy](#differential-privacy)
+13. [Differential Privacy](#differential-privacy)
 
-13. [Cloud Native Development](#cloud-native-development)
+14. [Cloud Native Development](#cloud-native-development)
 
-14. [DevOps Development](#devops-development)
+15. [DevOps Development](#devops-development)
 
-15. [Flutter Development](#flutter-development)
+16. [Flutter Development](#flutter-development)
 
-16. [Networking](#networking)
+17. [Networking](#networking)
 
-17. [Databases](#databases)
+18. [Databases](#databases)
 
-18. [GNOME Extensions](#gnome-extensions)
+19. [GNOME Extensions](#gnome-extensions)
 
-19. [Advanced Topics](#advanced-topics)
+20. [Advanced Topics](#advanced-topics)
 
 # Getting Started
 
