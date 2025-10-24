@@ -15,6 +15,8 @@
 
 1. [Getting Started](#getting-started)
 
+   - [Additional Ubuntu Tools & Resources for Enterprise & Small Businesses](#additional-ubuntu-tools--resources-for-enterprise--small-businesses)
+
 2. [Getting Software](#getting-software)
 
 3. [Gaming](#gaming)
