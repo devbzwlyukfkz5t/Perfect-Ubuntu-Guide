@@ -20,3 +20,8 @@ jobs:
         with:
           path: README.md
           outputpath: out
+      - name: Upload Firmware To Artifact
+        uses: actions/upload-artifact@main
+        with:
+          name: README.html
+          path: out
