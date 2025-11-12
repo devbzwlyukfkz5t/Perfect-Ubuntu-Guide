@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/212644862-af3fdae2-dec3-4aa1-8b37-35dbff75d105.png">
   <br />
-  Ubuntu Guide
+  Ubuntu Desktop Guide
 </h1>
 
 #### A guide on setting up your Ubuntu Desktop with all the essential Applications, Tools, and Games to make your experience with Ubuntu great!
